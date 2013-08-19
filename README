@@ -1,3 +1,16 @@
+目录说明：
+
+bind-acl: BIND9 ACL格式的地址库信息
+F5Networks: F5 Networks公司GTM用户自定义Region格式的地址库信息
+world-common: 主要国家及地区的通用格式的地址库信息，可以方便的用awk命令重组为需要的格式
+SQL: 使用SQL数据库保存的地址库信息
+
+更新周期：
+
+不定期更新，通常为每周一次。
+
+
+数据统计：
 如对以下数据有异议，可查阅2007/01公布的最新CNNIC调查报告
     http://tech.sina.com.cn/i/2007-01-22/16341347347.shtml
 
